@@ -2,9 +2,9 @@
 - Different Applications & Tools Developed in python
 
 # Basic Calculator
-This is a Basic Python Calculator that can be used for simple arithmetic operations
+- This is a Basic Python Calculator that can be used for simple arithmetic operations
 # Usage
-python basic_calculator.py
+## python3 basic_calculator.py
 
 # Random Password Generator
 - This is a python program that generate complex passwords using uppercase, lowercase, digits, and symbols.
