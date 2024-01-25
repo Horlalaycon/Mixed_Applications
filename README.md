@@ -1,5 +1,5 @@
 # Mixed_Applications
-- Different Applications & Tools Developed in pytho
+- Different Applications & Tools Developed in python
 
 # Basic Calculator
 This is a Basic Python Calculator that can be used for simple arithmetic operations
