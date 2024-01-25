@@ -1,13 +1,13 @@
 # Mixed_Applications
-- Different Applications & Tools Developed in python
+Different Applications & Tools Developed in python
 
 # Basic Calculator
-- This is a Basic Python Calculator that can be used for simple arithmetic operations
+This is a Basic Python Calculator that can be used for simple arithmetic operations
 # Usage
 ## python3 basic_calculator.py
 
 # Random Password Generator
-- This is a python program that generate complex passwords using uppercase, lowercase, digits, and symbols.
+This is a python program that generate complex passwords using uppercase, lowercase, digits, and symbols.
 
 # Usage
 ## python3 random_password_generator.py
