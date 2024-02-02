@@ -1,4 +1,7 @@
 # Program Developed by AJIMATI IBRAHIM A.K.A Horlalaycon @ github https://github.com/Horlalaycon
+"""
+This program is used take screenshots, generate random name and save it in a particular place by specifying the full path.
+"""
 
 import pyautogui
 import string

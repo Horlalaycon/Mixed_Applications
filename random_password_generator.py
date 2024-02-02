@@ -1,4 +1,7 @@
 # Program Developed by AJIMATI IBRAHIM A.K.A Horlalaycon @ github https://github.com/Horlalaycon
+"""
+This program is used to generate random passwords with the mixture of uppercase, lowercase and digits.
+"""
 
 import string
 import random

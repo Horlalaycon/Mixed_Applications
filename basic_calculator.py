@@ -1,4 +1,8 @@
 # Program Developed by AJIMATI IBRAHIM A.K.A Horlalaycon @ github https://github.com/Horlalaycon
+"""
+This program is used to perform simple arithmetic calculations.
+"""
+
 
 def welcome_banner():
     print("""

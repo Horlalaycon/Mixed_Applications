@@ -42,5 +42,12 @@ This is a rock paper scissors game.
 - Enter word to replace
 - Enter word replacement
 
+## Email Slicer
+This program is used to split email addresses into Three parts: Username, Domain, and Extension.
+
+### Usage
+#### python3 email_slicer.py
+- Enter the Email Address to slice
+
 # Author
 - Program Developed by Horlalaycon @ GitHub https://github.com/Horlalaycon
