@@ -21,9 +21,10 @@ def slice_email():
     print(f"+-----------------------------------+")
 
 
-try:
-    slice_email()
-except ValueError:
-    print(f"+-----------------------------------------------------+")
-    print(f"| Error! Please Check if the email address is correct |")
-    print(f"+-----------------------------------------------------+")
+if __name__ == "__main__":
+    try:
+        slice_email()
+    except ValueError:
+        print(f"+-----------------------------------------------------+")
+        print(f"| Error! Please Check if the email address is correct |")
+        print(f"+-----------------------------------------------------+")
