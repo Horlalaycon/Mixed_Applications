@@ -1,6 +1,11 @@
 # Mixed_Applications
 Different Applications & Tools Developed in python
 
+## Dns to ip
+This is a Python Calculator that can be used to convert dns to ip address
+### Usage
+#### python3 dns-ip.py
+
 ## Basic Calculator
 This is a Basic Python Calculator that can be used for simple arithmetic operations
 ### Usage
@@ -34,7 +39,7 @@ This is a program to take screenshots
 - pip install pyautogui==0.9.54
 
 ## Word Replacement Program
-This is a rock paper scissors game.
+This is a word replacement paper scissors game.
 
 ### Usage
 #### python3 word_replacer.py
